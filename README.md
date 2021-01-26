@@ -1,6 +1,6 @@
 # Workout Log
 
-This program is a demonstrations of a node.js application to implement a backend
+This program is a demonstration of a node.js API. It allows a user to signup and login. Then they can Create, Read, Update, and Delete (CRUD) workout logs.
 
 ---
 
